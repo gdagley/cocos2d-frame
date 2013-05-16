@@ -167,26 +167,26 @@
 		265C9014172F4B71001841CE /* Slot.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 265C8FFD172F4B71001841CE /* Slot.cpp */; };
 		265C9015172F4B71001841CE /* SlotData.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 265C8FFF172F4B71001841CE /* SlotData.cpp */; };
 		265C9016172F4B71001841CE /* spine-cocos2dx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 265C9001172F4B71001841CE /* spine-cocos2dx.cpp */; };
+		8F75DDD61744F2EE00D75DE5 /* AppDelegate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8F75DDA41744F2EE00D75DE5 /* AppDelegate.cpp */; };
+		8F75DDD71744F2EE00D75DE5 /* Cocos2dPlayerCommon.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8F75DDA61744F2EE00D75DE5 /* Cocos2dPlayerCommon.cpp */; };
+		8F75DDD81744F2EE00D75DE5 /* Config.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8F75DDA81744F2EE00D75DE5 /* Config.cpp */; };
+		8F75DDD91744F2EE00D75DE5 /* CCBDirectoryComparer.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F75DDAC1744F2EE00D75DE5 /* CCBDirectoryComparer.m */; };
+		8F75DDDA1744F2EE00D75DE5 /* ServerController.mm in Sources */ = {isa = PBXBuildFile; fileRef = 8F75DDAE1744F2EE00D75DE5 /* ServerController.mm */; };
+		8F75DDDB1744F2EE00D75DE5 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 8F75DDB01744F2EE00D75DE5 /* LICENSE */; };
+		8F75DDDC1744F2EE00D75DE5 /* ioapi.c in Sources */ = {isa = PBXBuildFile; fileRef = 8F75DDB31744F2EE00D75DE5 /* ioapi.c */; };
+		8F75DDDD1744F2EE00D75DE5 /* mztools.c in Sources */ = {isa = PBXBuildFile; fileRef = 8F75DDB51744F2EE00D75DE5 /* mztools.c */; };
+		8F75DDDE1744F2EE00D75DE5 /* unzip.c in Sources */ = {isa = PBXBuildFile; fileRef = 8F75DDB71744F2EE00D75DE5 /* unzip.c */; };
+		8F75DDDF1744F2EE00D75DE5 /* zip.c in Sources */ = {isa = PBXBuildFile; fileRef = 8F75DDB91744F2EE00D75DE5 /* zip.c */; };
+		8F75DDE01744F2EE00D75DE5 /* SSZipArchive.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F75DDBC1744F2EE00D75DE5 /* SSZipArchive.m */; };
+		8F75DDE11744F2EE00D75DE5 /* ThoMoClientStub.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F75DDC01744F2EE00D75DE5 /* ThoMoClientStub.m */; };
+		8F75DDE21744F2EE00D75DE5 /* ThoMoNetworkStub.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F75DDC51744F2EE00D75DE5 /* ThoMoNetworkStub.m */; };
+		8F75DDE31744F2EE00D75DE5 /* ThoMoServerStub.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F75DDC81744F2EE00D75DE5 /* ThoMoServerStub.m */; };
+		8F75DDE41744F2EE00D75DE5 /* ThoMoTCPConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F75DDCC1744F2EE00D75DE5 /* ThoMoTCPConnection.m */; };
+		8F75DDE51744F2EE00D75DE5 /* Java_org_cocos2dx_cocosplayer_CocosPlayerSocket.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8F75DDCE1744F2EE00D75DE5 /* Java_org_cocos2dx_cocosplayer_CocosPlayerSocket.cpp */; };
+		8F75DDE61744F2EE00D75DE5 /* MainSceneHelper.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8F75DDCF1744F2EE00D75DE5 /* MainSceneHelper.cpp */; };
+		8F75DDE71744F2EE00D75DE5 /* PlayerStatus.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8F75DDD11744F2EE00D75DE5 /* PlayerStatus.cpp */; };
+		8F75DDE81744F2EE00D75DE5 /* StreamMessagingHelper.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8F75DDD41744F2EE00D75DE5 /* StreamMessagingHelper.cpp */; };
 		A0270DBA17386964002D76E9 /* res in Resources */ = {isa = PBXBuildFile; fileRef = A0270DB917386964002D76E9 /* res */; };
-		A0270E4417397678002D76E9 /* AppDelegate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0270E0D17397678002D76E9 /* AppDelegate.cpp */; };
-		A0270E4617397678002D76E9 /* Cocos2dPlayerCommon.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0270E1117397678002D76E9 /* Cocos2dPlayerCommon.cpp */; };
-		A0270E4717397678002D76E9 /* Config.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0270E1317397678002D76E9 /* Config.cpp */; };
-		A0270E4817397678002D76E9 /* CCBDirectoryComparer.m in Sources */ = {isa = PBXBuildFile; fileRef = A0270E1717397678002D76E9 /* CCBDirectoryComparer.m */; };
-		A0270E4917397678002D76E9 /* ServerController.mm in Sources */ = {isa = PBXBuildFile; fileRef = A0270E1917397678002D76E9 /* ServerController.mm */; };
-		A0270E4A17397678002D76E9 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = A0270E1B17397678002D76E9 /* LICENSE */; };
-		A0270E4B17397678002D76E9 /* ioapi.c in Sources */ = {isa = PBXBuildFile; fileRef = A0270E1E17397678002D76E9 /* ioapi.c */; };
-		A0270E4C17397678002D76E9 /* mztools.c in Sources */ = {isa = PBXBuildFile; fileRef = A0270E2017397678002D76E9 /* mztools.c */; };
-		A0270E4D17397678002D76E9 /* unzip.c in Sources */ = {isa = PBXBuildFile; fileRef = A0270E2217397678002D76E9 /* unzip.c */; };
-		A0270E4E17397678002D76E9 /* zip.c in Sources */ = {isa = PBXBuildFile; fileRef = A0270E2417397678002D76E9 /* zip.c */; };
-		A0270E4F17397678002D76E9 /* SSZipArchive.m in Sources */ = {isa = PBXBuildFile; fileRef = A0270E2717397678002D76E9 /* SSZipArchive.m */; };
-		A0270E5017397678002D76E9 /* ThoMoClientStub.m in Sources */ = {isa = PBXBuildFile; fileRef = A0270E2B17397678002D76E9 /* ThoMoClientStub.m */; };
-		A0270E5117397678002D76E9 /* ThoMoNetworkStub.m in Sources */ = {isa = PBXBuildFile; fileRef = A0270E3017397678002D76E9 /* ThoMoNetworkStub.m */; };
-		A0270E5217397678002D76E9 /* ThoMoServerStub.m in Sources */ = {isa = PBXBuildFile; fileRef = A0270E3317397678002D76E9 /* ThoMoServerStub.m */; };
-		A0270E5317397678002D76E9 /* ThoMoTCPConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = A0270E3717397678002D76E9 /* ThoMoTCPConnection.m */; };
-		A0270E5417397678002D76E9 /* Java_org_cocos2dx_cocosplayer_CocosPlayerSocket.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0270E3917397678002D76E9 /* Java_org_cocos2dx_cocosplayer_CocosPlayerSocket.cpp */; };
-		A0270E5517397678002D76E9 /* MainSceneHelper.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0270E3B17397678002D76E9 /* MainSceneHelper.cpp */; };
-		A0270E5617397678002D76E9 /* PlayerStatus.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0270E3D17397678002D76E9 /* PlayerStatus.cpp */; };
-		A0270E5817397678002D76E9 /* StreamMessagingHelper.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0270E4217397678002D76E9 /* StreamMessagingHelper.cpp */; };
 		A073DBF21734D6C400889EAE /* parson.c in Sources */ = {isa = PBXBuildFile; fileRef = A073DBE71734D6C400889EAE /* parson.c */; };
 		A92275421517C094001B78AA /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A92275411517C094001B78AA /* QuartzCore.framework */; };
 		A92275441517C094001B78AA /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A92275431517C094001B78AA /* OpenGLES.framework */; };
@@ -518,51 +518,51 @@
 		265C9001172F4B71001841CE /* spine-cocos2dx.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "spine-cocos2dx.cpp"; sourceTree = "<group>"; };
 		265C9002172F4B71001841CE /* spine-cocos2dx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "spine-cocos2dx.h"; sourceTree = "<group>"; };
 		265C9003172F4B71001841CE /* spine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = spine.h; sourceTree = "<group>"; };
+		8F75DDA41744F2EE00D75DE5 /* AppDelegate.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = AppDelegate.cpp; sourceTree = "<group>"; };
+		8F75DDA51744F2EE00D75DE5 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		8F75DDA61744F2EE00D75DE5 /* Cocos2dPlayerCommon.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Cocos2dPlayerCommon.cpp; sourceTree = "<group>"; };
+		8F75DDA71744F2EE00D75DE5 /* Cocos2dPlayerCommon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Cocos2dPlayerCommon.h; sourceTree = "<group>"; };
+		8F75DDA81744F2EE00D75DE5 /* Config.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Config.cpp; sourceTree = "<group>"; };
+		8F75DDA91744F2EE00D75DE5 /* Config.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Config.h; sourceTree = "<group>"; };
+		8F75DDAB1744F2EE00D75DE5 /* CCBDirectoryComparer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCBDirectoryComparer.h; sourceTree = "<group>"; };
+		8F75DDAC1744F2EE00D75DE5 /* CCBDirectoryComparer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCBDirectoryComparer.m; sourceTree = "<group>"; };
+		8F75DDAD1744F2EE00D75DE5 /* ServerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ServerController.h; sourceTree = "<group>"; };
+		8F75DDAE1744F2EE00D75DE5 /* ServerController.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = ServerController.mm; sourceTree = "<group>"; };
+		8F75DDB01744F2EE00D75DE5 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		8F75DDB21744F2EE00D75DE5 /* crypt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypt.h; sourceTree = "<group>"; };
+		8F75DDB31744F2EE00D75DE5 /* ioapi.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ioapi.c; sourceTree = "<group>"; };
+		8F75DDB41744F2EE00D75DE5 /* ioapi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ioapi.h; sourceTree = "<group>"; };
+		8F75DDB51744F2EE00D75DE5 /* mztools.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = mztools.c; sourceTree = "<group>"; };
+		8F75DDB61744F2EE00D75DE5 /* mztools.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mztools.h; sourceTree = "<group>"; };
+		8F75DDB71744F2EE00D75DE5 /* unzip.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = unzip.c; sourceTree = "<group>"; };
+		8F75DDB81744F2EE00D75DE5 /* unzip.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = unzip.h; sourceTree = "<group>"; };
+		8F75DDB91744F2EE00D75DE5 /* zip.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = zip.c; sourceTree = "<group>"; };
+		8F75DDBA1744F2EE00D75DE5 /* zip.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = zip.h; sourceTree = "<group>"; };
+		8F75DDBB1744F2EE00D75DE5 /* SSZipArchive.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSZipArchive.h; sourceTree = "<group>"; };
+		8F75DDBC1744F2EE00D75DE5 /* SSZipArchive.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSZipArchive.m; sourceTree = "<group>"; };
+		8F75DDBF1744F2EE00D75DE5 /* ThoMoClientDelegateProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThoMoClientDelegateProtocol.h; sourceTree = "<group>"; };
+		8F75DDC01744F2EE00D75DE5 /* ThoMoClientStub.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThoMoClientStub.m; sourceTree = "<group>"; };
+		8F75DDC11744F2EE00D75DE5 /* ThoMoClientStub_private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThoMoClientStub_private.h; sourceTree = "<group>"; };
+		8F75DDC21744F2EE00D75DE5 /* ThoMoClientStub.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThoMoClientStub.h; sourceTree = "<group>"; };
+		8F75DDC31744F2EE00D75DE5 /* ThoMoNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThoMoNetworking.h; sourceTree = "<group>"; };
+		8F75DDC41744F2EE00D75DE5 /* ThoMoNetworkStub.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThoMoNetworkStub.h; sourceTree = "<group>"; };
+		8F75DDC51744F2EE00D75DE5 /* ThoMoNetworkStub.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThoMoNetworkStub.m; sourceTree = "<group>"; };
+		8F75DDC71744F2EE00D75DE5 /* ThoMoServerDelegateProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThoMoServerDelegateProtocol.h; sourceTree = "<group>"; };
+		8F75DDC81744F2EE00D75DE5 /* ThoMoServerStub.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThoMoServerStub.m; sourceTree = "<group>"; };
+		8F75DDC91744F2EE00D75DE5 /* ThoMoServerStub_private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThoMoServerStub_private.h; sourceTree = "<group>"; };
+		8F75DDCA1744F2EE00D75DE5 /* ThoMoServerStub.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThoMoServerStub.h; sourceTree = "<group>"; };
+		8F75DDCB1744F2EE00D75DE5 /* ThoMoTCPConnection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThoMoTCPConnection.h; sourceTree = "<group>"; };
+		8F75DDCC1744F2EE00D75DE5 /* ThoMoTCPConnection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThoMoTCPConnection.m; sourceTree = "<group>"; };
+		8F75DDCD1744F2EE00D75DE5 /* ThoMoTCPConnectionDelegateProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThoMoTCPConnectionDelegateProtocol.h; sourceTree = "<group>"; };
+		8F75DDCE1744F2EE00D75DE5 /* Java_org_cocos2dx_cocosplayer_CocosPlayerSocket.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Java_org_cocos2dx_cocosplayer_CocosPlayerSocket.cpp; sourceTree = "<group>"; };
+		8F75DDCF1744F2EE00D75DE5 /* MainSceneHelper.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MainSceneHelper.cpp; sourceTree = "<group>"; };
+		8F75DDD01744F2EE00D75DE5 /* MainSceneHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainSceneHelper.h; sourceTree = "<group>"; };
+		8F75DDD11744F2EE00D75DE5 /* PlayerStatus.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PlayerStatus.cpp; sourceTree = "<group>"; };
+		8F75DDD21744F2EE00D75DE5 /* PlayerStatus.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayerStatus.h; sourceTree = "<group>"; };
+		8F75DDD31744F2EE00D75DE5 /* PlayerStatusLoader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayerStatusLoader.h; sourceTree = "<group>"; };
+		8F75DDD41744F2EE00D75DE5 /* StreamMessagingHelper.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = StreamMessagingHelper.cpp; sourceTree = "<group>"; };
+		8F75DDD51744F2EE00D75DE5 /* StreamMessagingHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StreamMessagingHelper.h; sourceTree = "<group>"; };
 		A0270DB917386964002D76E9 /* res */ = {isa = PBXFileReference; lastKnownFileType = folder; name = res; path = ../Resources/res; sourceTree = "<group>"; };
-		A0270E0D17397678002D76E9 /* AppDelegate.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = AppDelegate.cpp; sourceTree = "<group>"; };
-		A0270E0E17397678002D76E9 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		A0270E1117397678002D76E9 /* Cocos2dPlayerCommon.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Cocos2dPlayerCommon.cpp; sourceTree = "<group>"; };
-		A0270E1217397678002D76E9 /* Cocos2dPlayerCommon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Cocos2dPlayerCommon.h; sourceTree = "<group>"; };
-		A0270E1317397678002D76E9 /* Config.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Config.cpp; sourceTree = "<group>"; };
-		A0270E1417397678002D76E9 /* Config.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Config.h; sourceTree = "<group>"; };
-		A0270E1617397678002D76E9 /* CCBDirectoryComparer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCBDirectoryComparer.h; sourceTree = "<group>"; };
-		A0270E1717397678002D76E9 /* CCBDirectoryComparer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCBDirectoryComparer.m; sourceTree = "<group>"; };
-		A0270E1817397678002D76E9 /* ServerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ServerController.h; sourceTree = "<group>"; };
-		A0270E1917397678002D76E9 /* ServerController.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = ServerController.mm; sourceTree = "<group>"; };
-		A0270E1B17397678002D76E9 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		A0270E1D17397678002D76E9 /* crypt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypt.h; sourceTree = "<group>"; };
-		A0270E1E17397678002D76E9 /* ioapi.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ioapi.c; sourceTree = "<group>"; };
-		A0270E1F17397678002D76E9 /* ioapi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ioapi.h; sourceTree = "<group>"; };
-		A0270E2017397678002D76E9 /* mztools.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = mztools.c; sourceTree = "<group>"; };
-		A0270E2117397678002D76E9 /* mztools.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mztools.h; sourceTree = "<group>"; };
-		A0270E2217397678002D76E9 /* unzip.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = unzip.c; sourceTree = "<group>"; };
-		A0270E2317397678002D76E9 /* unzip.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = unzip.h; sourceTree = "<group>"; };
-		A0270E2417397678002D76E9 /* zip.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = zip.c; sourceTree = "<group>"; };
-		A0270E2517397678002D76E9 /* zip.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = zip.h; sourceTree = "<group>"; };
-		A0270E2617397678002D76E9 /* SSZipArchive.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSZipArchive.h; sourceTree = "<group>"; };
-		A0270E2717397678002D76E9 /* SSZipArchive.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSZipArchive.m; sourceTree = "<group>"; };
-		A0270E2A17397678002D76E9 /* ThoMoClientDelegateProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThoMoClientDelegateProtocol.h; sourceTree = "<group>"; };
-		A0270E2B17397678002D76E9 /* ThoMoClientStub.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThoMoClientStub.m; sourceTree = "<group>"; };
-		A0270E2C17397678002D76E9 /* ThoMoClientStub_private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThoMoClientStub_private.h; sourceTree = "<group>"; };
-		A0270E2D17397678002D76E9 /* ThoMoClientStub.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThoMoClientStub.h; sourceTree = "<group>"; };
-		A0270E2E17397678002D76E9 /* ThoMoNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThoMoNetworking.h; sourceTree = "<group>"; };
-		A0270E2F17397678002D76E9 /* ThoMoNetworkStub.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThoMoNetworkStub.h; sourceTree = "<group>"; };
-		A0270E3017397678002D76E9 /* ThoMoNetworkStub.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThoMoNetworkStub.m; sourceTree = "<group>"; };
-		A0270E3217397678002D76E9 /* ThoMoServerDelegateProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThoMoServerDelegateProtocol.h; sourceTree = "<group>"; };
-		A0270E3317397678002D76E9 /* ThoMoServerStub.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThoMoServerStub.m; sourceTree = "<group>"; };
-		A0270E3417397678002D76E9 /* ThoMoServerStub_private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThoMoServerStub_private.h; sourceTree = "<group>"; };
-		A0270E3517397678002D76E9 /* ThoMoServerStub.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThoMoServerStub.h; sourceTree = "<group>"; };
-		A0270E3617397678002D76E9 /* ThoMoTCPConnection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThoMoTCPConnection.h; sourceTree = "<group>"; };
-		A0270E3717397678002D76E9 /* ThoMoTCPConnection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThoMoTCPConnection.m; sourceTree = "<group>"; };
-		A0270E3817397678002D76E9 /* ThoMoTCPConnectionDelegateProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThoMoTCPConnectionDelegateProtocol.h; sourceTree = "<group>"; };
-		A0270E3917397678002D76E9 /* Java_org_cocos2dx_cocosplayer_CocosPlayerSocket.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Java_org_cocos2dx_cocosplayer_CocosPlayerSocket.cpp; sourceTree = "<group>"; };
-		A0270E3B17397678002D76E9 /* MainSceneHelper.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MainSceneHelper.cpp; sourceTree = "<group>"; };
-		A0270E3C17397678002D76E9 /* MainSceneHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainSceneHelper.h; sourceTree = "<group>"; };
-		A0270E3D17397678002D76E9 /* PlayerStatus.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PlayerStatus.cpp; sourceTree = "<group>"; };
-		A0270E3E17397678002D76E9 /* PlayerStatus.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayerStatus.h; sourceTree = "<group>"; };
-		A0270E3F17397678002D76E9 /* PlayerStatusLoader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayerStatusLoader.h; sourceTree = "<group>"; };
-		A0270E4217397678002D76E9 /* StreamMessagingHelper.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = StreamMessagingHelper.cpp; sourceTree = "<group>"; };
-		A0270E4317397678002D76E9 /* StreamMessagingHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StreamMessagingHelper.h; sourceTree = "<group>"; };
 		A073DBE71734D6C400889EAE /* parson.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = parson.c; sourceTree = "<group>"; };
 		A073DBE81734D6C400889EAE /* parson.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = parson.h; sourceTree = "<group>"; };
 		A073DBE91734D6C400889EAE /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
@@ -1102,101 +1102,110 @@
 			path = spine;
 			sourceTree = "<group>";
 		};
-		A0270E0C17397678002D76E9 /* player */ = {
+		8F75DDA21744F2EE00D75DE5 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				A0270E0D17397678002D76E9 /* AppDelegate.cpp */,
-				A0270E0E17397678002D76E9 /* AppDelegate.h */,
-				A0270E1117397678002D76E9 /* Cocos2dPlayerCommon.cpp */,
-				A0270E1217397678002D76E9 /* Cocos2dPlayerCommon.h */,
-				A0270E1317397678002D76E9 /* Config.cpp */,
-				A0270E1417397678002D76E9 /* Config.h */,
-				A0270E1517397678002D76E9 /* iOS */,
-				A0270E3917397678002D76E9 /* Java_org_cocos2dx_cocosplayer_CocosPlayerSocket.cpp */,
-				A0270E3B17397678002D76E9 /* MainSceneHelper.cpp */,
-				A0270E3C17397678002D76E9 /* MainSceneHelper.h */,
-				A0270E3D17397678002D76E9 /* PlayerStatus.cpp */,
-				A0270E3E17397678002D76E9 /* PlayerStatus.h */,
-				A0270E3F17397678002D76E9 /* PlayerStatusLoader.h */,
-				A0270E4217397678002D76E9 /* StreamMessagingHelper.cpp */,
-				A0270E4317397678002D76E9 /* StreamMessagingHelper.h */,
+				8F75DDA31744F2EE00D75DE5 /* player */,
+			);
+			name = Classes;
+			path = ../shared/Classes;
+			sourceTree = "<group>";
+		};
+		8F75DDA31744F2EE00D75DE5 /* player */ = {
+			isa = PBXGroup;
+			children = (
+				8F75DDA41744F2EE00D75DE5 /* AppDelegate.cpp */,
+				8F75DDA51744F2EE00D75DE5 /* AppDelegate.h */,
+				8F75DDA61744F2EE00D75DE5 /* Cocos2dPlayerCommon.cpp */,
+				8F75DDA71744F2EE00D75DE5 /* Cocos2dPlayerCommon.h */,
+				8F75DDA81744F2EE00D75DE5 /* Config.cpp */,
+				8F75DDA91744F2EE00D75DE5 /* Config.h */,
+				8F75DDAA1744F2EE00D75DE5 /* iOS */,
+				8F75DDCE1744F2EE00D75DE5 /* Java_org_cocos2dx_cocosplayer_CocosPlayerSocket.cpp */,
+				8F75DDCF1744F2EE00D75DE5 /* MainSceneHelper.cpp */,
+				8F75DDD01744F2EE00D75DE5 /* MainSceneHelper.h */,
+				8F75DDD11744F2EE00D75DE5 /* PlayerStatus.cpp */,
+				8F75DDD21744F2EE00D75DE5 /* PlayerStatus.h */,
+				8F75DDD31744F2EE00D75DE5 /* PlayerStatusLoader.h */,
+				8F75DDD41744F2EE00D75DE5 /* StreamMessagingHelper.cpp */,
+				8F75DDD51744F2EE00D75DE5 /* StreamMessagingHelper.h */,
 			);
 			path = player;
 			sourceTree = "<group>";
 		};
-		A0270E1517397678002D76E9 /* iOS */ = {
+		8F75DDAA1744F2EE00D75DE5 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
-				A0270E1617397678002D76E9 /* CCBDirectoryComparer.h */,
-				A0270E1717397678002D76E9 /* CCBDirectoryComparer.m */,
-				A0270E1817397678002D76E9 /* ServerController.h */,
-				A0270E1917397678002D76E9 /* ServerController.mm */,
-				A0270E1A17397678002D76E9 /* ssziparchive */,
-				A0270E2817397678002D76E9 /* ThoMoNetworking */,
+				8F75DDAB1744F2EE00D75DE5 /* CCBDirectoryComparer.h */,
+				8F75DDAC1744F2EE00D75DE5 /* CCBDirectoryComparer.m */,
+				8F75DDAD1744F2EE00D75DE5 /* ServerController.h */,
+				8F75DDAE1744F2EE00D75DE5 /* ServerController.mm */,
+				8F75DDAF1744F2EE00D75DE5 /* ssziparchive */,
+				8F75DDBD1744F2EE00D75DE5 /* ThoMoNetworking */,
 			);
 			path = iOS;
 			sourceTree = "<group>";
 		};
-		A0270E1A17397678002D76E9 /* ssziparchive */ = {
+		8F75DDAF1744F2EE00D75DE5 /* ssziparchive */ = {
 			isa = PBXGroup;
 			children = (
-				A0270E1B17397678002D76E9 /* LICENSE */,
-				A0270E1C17397678002D76E9 /* minizip */,
-				A0270E2617397678002D76E9 /* SSZipArchive.h */,
-				A0270E2717397678002D76E9 /* SSZipArchive.m */,
+				8F75DDB01744F2EE00D75DE5 /* LICENSE */,
+				8F75DDB11744F2EE00D75DE5 /* minizip */,
+				8F75DDBB1744F2EE00D75DE5 /* SSZipArchive.h */,
+				8F75DDBC1744F2EE00D75DE5 /* SSZipArchive.m */,
 			);
 			path = ssziparchive;
 			sourceTree = "<group>";
 		};
-		A0270E1C17397678002D76E9 /* minizip */ = {
+		8F75DDB11744F2EE00D75DE5 /* minizip */ = {
 			isa = PBXGroup;
 			children = (
-				A0270E1D17397678002D76E9 /* crypt.h */,
-				A0270E1E17397678002D76E9 /* ioapi.c */,
-				A0270E1F17397678002D76E9 /* ioapi.h */,
-				A0270E2017397678002D76E9 /* mztools.c */,
-				A0270E2117397678002D76E9 /* mztools.h */,
-				A0270E2217397678002D76E9 /* unzip.c */,
-				A0270E2317397678002D76E9 /* unzip.h */,
-				A0270E2417397678002D76E9 /* zip.c */,
-				A0270E2517397678002D76E9 /* zip.h */,
+				8F75DDB21744F2EE00D75DE5 /* crypt.h */,
+				8F75DDB31744F2EE00D75DE5 /* ioapi.c */,
+				8F75DDB41744F2EE00D75DE5 /* ioapi.h */,
+				8F75DDB51744F2EE00D75DE5 /* mztools.c */,
+				8F75DDB61744F2EE00D75DE5 /* mztools.h */,
+				8F75DDB71744F2EE00D75DE5 /* unzip.c */,
+				8F75DDB81744F2EE00D75DE5 /* unzip.h */,
+				8F75DDB91744F2EE00D75DE5 /* zip.c */,
+				8F75DDBA1744F2EE00D75DE5 /* zip.h */,
 			);
 			path = minizip;
 			sourceTree = "<group>";
 		};
-		A0270E2817397678002D76E9 /* ThoMoNetworking */ = {
+		8F75DDBD1744F2EE00D75DE5 /* ThoMoNetworking */ = {
 			isa = PBXGroup;
 			children = (
-				A0270E2917397678002D76E9 /* ThoMoClient */,
-				A0270E2D17397678002D76E9 /* ThoMoClientStub.h */,
-				A0270E2E17397678002D76E9 /* ThoMoNetworking.h */,
-				A0270E2F17397678002D76E9 /* ThoMoNetworkStub.h */,
-				A0270E3017397678002D76E9 /* ThoMoNetworkStub.m */,
-				A0270E3117397678002D76E9 /* ThoMoServer */,
-				A0270E3517397678002D76E9 /* ThoMoServerStub.h */,
-				A0270E3617397678002D76E9 /* ThoMoTCPConnection.h */,
-				A0270E3717397678002D76E9 /* ThoMoTCPConnection.m */,
-				A0270E3817397678002D76E9 /* ThoMoTCPConnectionDelegateProtocol.h */,
+				8F75DDBE1744F2EE00D75DE5 /* ThoMoClient */,
+				8F75DDC21744F2EE00D75DE5 /* ThoMoClientStub.h */,
+				8F75DDC31744F2EE00D75DE5 /* ThoMoNetworking.h */,
+				8F75DDC41744F2EE00D75DE5 /* ThoMoNetworkStub.h */,
+				8F75DDC51744F2EE00D75DE5 /* ThoMoNetworkStub.m */,
+				8F75DDC61744F2EE00D75DE5 /* ThoMoServer */,
+				8F75DDCA1744F2EE00D75DE5 /* ThoMoServerStub.h */,
+				8F75DDCB1744F2EE00D75DE5 /* ThoMoTCPConnection.h */,
+				8F75DDCC1744F2EE00D75DE5 /* ThoMoTCPConnection.m */,
+				8F75DDCD1744F2EE00D75DE5 /* ThoMoTCPConnectionDelegateProtocol.h */,
 			);
 			path = ThoMoNetworking;
 			sourceTree = "<group>";
 		};
-		A0270E2917397678002D76E9 /* ThoMoClient */ = {
+		8F75DDBE1744F2EE00D75DE5 /* ThoMoClient */ = {
 			isa = PBXGroup;
 			children = (
-				A0270E2A17397678002D76E9 /* ThoMoClientDelegateProtocol.h */,
-				A0270E2B17397678002D76E9 /* ThoMoClientStub.m */,
-				A0270E2C17397678002D76E9 /* ThoMoClientStub_private.h */,
+				8F75DDBF1744F2EE00D75DE5 /* ThoMoClientDelegateProtocol.h */,
+				8F75DDC01744F2EE00D75DE5 /* ThoMoClientStub.m */,
+				8F75DDC11744F2EE00D75DE5 /* ThoMoClientStub_private.h */,
 			);
 			path = ThoMoClient;
 			sourceTree = "<group>";
 		};
-		A0270E3117397678002D76E9 /* ThoMoServer */ = {
+		8F75DDC61744F2EE00D75DE5 /* ThoMoServer */ = {
 			isa = PBXGroup;
 			children = (
-				A0270E3217397678002D76E9 /* ThoMoServerDelegateProtocol.h */,
-				A0270E3317397678002D76E9 /* ThoMoServerStub.m */,
-				A0270E3417397678002D76E9 /* ThoMoServerStub_private.h */,
+				8F75DDC71744F2EE00D75DE5 /* ThoMoServerDelegateProtocol.h */,
+				8F75DDC81744F2EE00D75DE5 /* ThoMoServerStub.m */,
+				8F75DDC91744F2EE00D75DE5 /* ThoMoServerStub_private.h */,
 			);
 			path = ThoMoServer;
 			sourceTree = "<group>";
@@ -1228,7 +1237,7 @@
 		A92275321517C094001B78AA = {
 			isa = PBXGroup;
 			children = (
-				D4545214156E28EF00887EB5 /* Classes */,
+				8F75DDA21744F2EE00D75DE5 /* Classes */,
 				D45446CC156DE73F00887EB5 /* ios */,
 				A073DBF91734DC9D00889EAE /* libs */,
 				A92275401517C094001B78AA /* Frameworks */,
@@ -1275,15 +1284,6 @@
 				D45446D2156DE74F00887EB5 /* RootViewController.mm */,
 			);
 			name = ios;
-			sourceTree = "<group>";
-		};
-		D4545214156E28EF00887EB5 /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				A0270E0C17397678002D76E9 /* player */,
-			);
-			name = Classes;
-			path = ../Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -1390,7 +1390,7 @@
 				2650A2A6170B842C0007F98D /* libJSBinding.vcxproj.filters in Resources */,
 				2650A2A7170B842C0007F98D /* libJSBinding.vcxproj.user in Resources */,
 				A0270DBA17386964002D76E9 /* res in Resources */,
-				A0270E4A17397678002D76E9 /* LICENSE in Resources */,
+				8F75DDDB1744F2EE00D75DE5 /* LICENSE in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1530,24 +1530,24 @@
 				265C9015172F4B71001841CE /* SlotData.cpp in Sources */,
 				265C9016172F4B71001841CE /* spine-cocos2dx.cpp in Sources */,
 				A073DBF21734D6C400889EAE /* parson.c in Sources */,
-				A0270E4417397678002D76E9 /* AppDelegate.cpp in Sources */,
-				A0270E4617397678002D76E9 /* Cocos2dPlayerCommon.cpp in Sources */,
-				A0270E4717397678002D76E9 /* Config.cpp in Sources */,
-				A0270E4817397678002D76E9 /* CCBDirectoryComparer.m in Sources */,
-				A0270E4917397678002D76E9 /* ServerController.mm in Sources */,
-				A0270E4B17397678002D76E9 /* ioapi.c in Sources */,
-				A0270E4C17397678002D76E9 /* mztools.c in Sources */,
-				A0270E4D17397678002D76E9 /* unzip.c in Sources */,
-				A0270E4E17397678002D76E9 /* zip.c in Sources */,
-				A0270E4F17397678002D76E9 /* SSZipArchive.m in Sources */,
-				A0270E5017397678002D76E9 /* ThoMoClientStub.m in Sources */,
-				A0270E5117397678002D76E9 /* ThoMoNetworkStub.m in Sources */,
-				A0270E5217397678002D76E9 /* ThoMoServerStub.m in Sources */,
-				A0270E5317397678002D76E9 /* ThoMoTCPConnection.m in Sources */,
-				A0270E5417397678002D76E9 /* Java_org_cocos2dx_cocosplayer_CocosPlayerSocket.cpp in Sources */,
-				A0270E5517397678002D76E9 /* MainSceneHelper.cpp in Sources */,
-				A0270E5617397678002D76E9 /* PlayerStatus.cpp in Sources */,
-				A0270E5817397678002D76E9 /* StreamMessagingHelper.cpp in Sources */,
+				8F75DDD61744F2EE00D75DE5 /* AppDelegate.cpp in Sources */,
+				8F75DDD71744F2EE00D75DE5 /* Cocos2dPlayerCommon.cpp in Sources */,
+				8F75DDD81744F2EE00D75DE5 /* Config.cpp in Sources */,
+				8F75DDD91744F2EE00D75DE5 /* CCBDirectoryComparer.m in Sources */,
+				8F75DDDA1744F2EE00D75DE5 /* ServerController.mm in Sources */,
+				8F75DDDC1744F2EE00D75DE5 /* ioapi.c in Sources */,
+				8F75DDDD1744F2EE00D75DE5 /* mztools.c in Sources */,
+				8F75DDDE1744F2EE00D75DE5 /* unzip.c in Sources */,
+				8F75DDDF1744F2EE00D75DE5 /* zip.c in Sources */,
+				8F75DDE01744F2EE00D75DE5 /* SSZipArchive.m in Sources */,
+				8F75DDE11744F2EE00D75DE5 /* ThoMoClientStub.m in Sources */,
+				8F75DDE21744F2EE00D75DE5 /* ThoMoNetworkStub.m in Sources */,
+				8F75DDE31744F2EE00D75DE5 /* ThoMoServerStub.m in Sources */,
+				8F75DDE41744F2EE00D75DE5 /* ThoMoTCPConnection.m in Sources */,
+				8F75DDE51744F2EE00D75DE5 /* Java_org_cocos2dx_cocosplayer_CocosPlayerSocket.cpp in Sources */,
+				8F75DDE61744F2EE00D75DE5 /* MainSceneHelper.cpp in Sources */,
+				8F75DDE71744F2EE00D75DE5 /* PlayerStatus.cpp in Sources */,
+				8F75DDE81744F2EE00D75DE5 /* StreamMessagingHelper.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
